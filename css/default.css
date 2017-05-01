@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-//背景色を変える
+
 body{
   background-color: #3399cc;
 }
@@ -10,7 +10,7 @@ h1{
   color:#3339cc;
   text-align:left;
   
-  border:#94c8b1 1px dotted;  //境界線
+  border:#94c8b1 1px dotted; 
 }
 
 h3{
