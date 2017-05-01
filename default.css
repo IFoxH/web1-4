@@ -1,4 +1,17 @@
 @charset"UTF-8";
+
+//背景色を変える
+body{
+  background-color: #ff6600;
+}
+
+h1{
+  font-size:1.80em;
+  color:#3339cc;
+  text-align:left;
+}
+
+
 /*
 //型
   h1 span{
@@ -33,14 +46,3 @@
       background-repeat:repeat-x;
   }
 */
-
-//背景色を変える
-body{
-  background-color: #ff6600;
-}
-
-h1{
-  font-size:1.80em;
-  color:#3339cc;
-  text-align:left;
-}
