@@ -23,30 +23,30 @@ h3{
     color: #d0e35b;
   }
   
-  //id
+  
   #lead{
     border-top:#ff6600;
     
     text-align:center;
   }  
   
-  //class1
+ 
   .greeting{
     border-top:#ff6600 1px dotted;
     
     text-align:center;
   }
   
-  //class2
+
   p.greeting{
     border-top:#ff6600 1px dotted;
     
     text-align:center;
   }
   
-  //背景画像
+  
   .fox{
-      background-image:url(/img/kitunemura10.jpg);  //画像リンク
+      background-image:url(/img/kitunemura10.jpg);
       background-repeat:no-repeat;
       background-position:right center;
   }
