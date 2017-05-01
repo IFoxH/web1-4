@@ -1,4 +1,6 @@
-  //型
+@charset"UTF-8";
+/*
+//型
   h1 span{
     color:#ff6600;
   }
@@ -26,7 +28,19 @@
   
   //背景画像
   body{
-      background-color:#ff6600;
+      background-color: #ff6600;
       background-image:url(/img/~~~~~~.png);  //画像リンク
       background-repeat:repeat-x;
   }
+*/
+
+//背景色を変える
+body{
+  background-color: #ff6600;
+}
+
+h1{
+  font-size:1.80em;
+  color:#3339cc;
+  text-align:left;
+}
