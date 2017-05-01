@@ -1,4 +1,4 @@
-//@charset"UTF-8";
+@charset"UTF-8";
 
 //背景色を変える
 body{background-color: #fbf9cc}
@@ -12,8 +12,6 @@ h1{
 }
 
 
-
-//型
   h2 span{
     color: #d0e35b;
   }
@@ -40,8 +38,8 @@ h1{
   }
   
   //背景画像
-  body{
-      background-color: #ff6600;
+  .fox{
       background-image:url(/img/kitunemura10.jpg);  //画像リンク
-      background-repeat:repeat-x;
+      background-repeat:no-repeat;
+      background-position:right center;
   }
